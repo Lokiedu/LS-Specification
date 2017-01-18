@@ -1,7 +1,7 @@
 ## Interface, UX perspective
 
 * Top navigation bar
-* Breadcrumbs / omnibar
+* Breadcrumbs / omnibar 
 * Announcements
 * [Left sidebar](/left-sidebar.md)
 * Breakpoints, responsive behaviour
