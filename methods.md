@@ -2,6 +2,8 @@
 
 Left sidebar
 
+{% method %} 
+
 #### About it
 
 My first method exposes how to print a message in JavaScript and Go.
@@ -11,3 +13,4 @@ My first method exposes how to print a message in JavaScript and Go.
 ```js
 test code?
 ```
+{% endmethod %}
