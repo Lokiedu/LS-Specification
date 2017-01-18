@@ -4,9 +4,8 @@
         "theme-api": {
             "languages": [
                 {
-                "lang": "live",
-                "name": "Live version",
-                "default": true
+                    "lang": "live",
+                    "name": "Live version",
                 },             
                 {
                     "lang": "planned",

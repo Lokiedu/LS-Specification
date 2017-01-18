@@ -10,7 +10,7 @@ test
 
 Navigation is responsible. We start with just 2 sizes responsive support that will work for "collapse" and "expand" states.
 
-{% sample lang="stable" -%}
+{% sample lang="c" -%}
 
 {% sample lang="beta" -%}
 
