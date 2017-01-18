@@ -4,6 +4,8 @@ Left (in the ltr) sidebar specification. Facebook-like, it will have a number of
 
 {% method %} 
 
+test
+
 #### Collapse - expand
 
 Navigation is responsible. We start with just 2 sizes responsive support that will work for "collapse" and "expand" states.
