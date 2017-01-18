@@ -3,7 +3,7 @@
 ## Overview
 * [Specification overview](README.md)
 
-## Methods
+## Interface, UX
+* [Top navigation bar](method.md)
 * [Left sidebar](methods.md)
-* [Method](method.md)
 
