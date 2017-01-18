@@ -1,7 +1,3 @@
----
-Front matter?
----
-
 # Basics
 
 Left sidebar
