@@ -14,11 +14,11 @@ Navigation is responsible. We start with just 2 sizes responsive support that wi
 * [ ] Animation for collapse-expand effect has to be well defined and worked through. 
 * [ ] Logic of smart text titles / links (see XL Size and "4 new posts")
 * [ ] Animation in extra large titles (could be marque)
-* [ ] Specifications for color schemes in Colors
+* [ ] Specifications for color schemes in [Colors](/colors.md)
 * [ ] "Small" version of left sidebar navigation has to open on small screens (tablets and smaller) by default. This needs to be described and well tested.
 * [ ] Possible switch to san francisco display font.
 * [ ] Possible custom icons (user set/suggested)
-* [ ] Notification-in-menu (numbers of unread items in each menu item
+* [ ] Notification-in-menu (numbers of unread items in each menu item (see "4" next to News Feed)
 
 {% endmethod %}
 
