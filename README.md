@@ -60,5 +60,5 @@
     * Here (reactions, "My Likes")
     * Collections (incl. "My Favorites") ([g.Drive](https://docs.google.com/a/lokieducation.org/drawings/d/1AA1NVwUivM_xDpspP93LIZuCZ3MDg8L395xAurRU6_A/edit?usp=drive_web))
     * Post templates
-    * Post slice templates
+    * Post slice templates 
     
