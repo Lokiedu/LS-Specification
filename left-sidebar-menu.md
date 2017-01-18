@@ -10,23 +10,25 @@ test
 
 Navigation is responsible. We start with just 2 sizes responsive support that will work for "collapse" and "expand" states.
 
-{% sample lang="js" -%}
+{% sample lang="stable" -%}
+
+{% sample lang="beta" -%}
+
+{% sample lang="ice" -%}
 
 * [ ] Deliberate (user-initiated) collapse/expand (this tiny long thing near the globe icon - it's height signifies what size is currently on.
 * [ ] Animation for collapse-expand effect has to be well defined and worked through. 
 * [ ] Logic of smart text titles / links (see XL Size and "4 new posts")
-
-{% sample lang="go" -%}
-
 * [ ] Animation in extra large titles (could be marque)
 * [ ] Specifications for color schemes in [Colors](/colors.md)
 * [ ] "Small" version of left sidebar navigation has to open on small screens (tablets and smaller) by default. This needs to be described and well tested.
 * [ ] Possible switch to san francisco display font.
 * [ ] Possible custom icons (user set/suggested)
+* [ ] Notification-in-menu (numbers of unread items in each menu item (see "4" next to News Feed)
+
 
 {% common -%}
 
-* [ ] Notification-in-menu (numbers of unread items in each menu item (see "4" next to News Feed)
 
 ----
 | Collapse expand |
