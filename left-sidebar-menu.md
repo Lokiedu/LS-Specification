@@ -1,19 +1,25 @@
-# Basics
+# Main navigation
 
-Left sidebar
+Left (in the ltr) sidebar specification. Facebook-like, it will have a number of small innovations across it to improve user experience and content discovery. 
 
 {% method %} 
 
-#### About it
+#### Collapse - expand
 
-My first method exposes how to print a message in JavaScript and Go.
+Navigation is responsible. We start with just 2 sizes responsive support that will work for "collapse" and "expand" states.
 
-https://docs.google.com/drawings/d/1wir-lVVYkj300VBvQb_I6LPxIFhawMtXs5pAtZxsmZc
+[![](/assets/Collapse-expand.png)](https://drive.google.com/a/lokieducation.org/file/d/0B-3RQRY3AlLUbmlHVlR1dzRKdWM/view?usp=sharing)
 
-```java
-Do androids dream of electric sheep?
+* [ ] Deliberate (user-initiated) collapse/expand (this tiny long thing near the globe icon - it's height signifies what size is currently on.
+* [ ] Animation for collapse-expand effect has to be well defined and worked through. 
+* [ ] Logic of smart text titles / links (see XL Size and "4 new posts")
+* [ ] Animation in extra large titles (could be marque)
+* [ ] Specifications for color schemes in Colors
+* [ ] "Small" version of left sidebar navigation has to open on small screens (tablets and smaller) by default. This needs to be described and well tested.
+* [ ] Possible switch to san francisco display font.
+* [ ] Possible custom icons (user set/suggested)
+* [ ] Notification-in-menu (numbers of unread items in each menu item
 
-```
 {% endmethod %}
 
 x
@@ -26,3 +32,11 @@ Specification
 
 {% endmethod %}
 
+Only in contrast with bad things you can see good ones, I think. Examples shown can be a base for development of ethical standards in schools and businesses. 
+
+https://docs.google.com/drawings/d/1wir-lVVYkj300VBvQb_I6LPxIFhawMtXs5pAtZxsmZc
+
+```ruby
+Do androids dream of electric sheep?
+
+```
