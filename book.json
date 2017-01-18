@@ -5,17 +5,17 @@
             "languages": [
                 {
                     "lang": "planned",
-                    "name": "planned",
+                    "name": "Planned",
                     "default": true
                 },
                 {
-"lang": "ice",
-"name": "ice",
-"default": false
-},
-                {
                     "lang": "live",
-                    "name": "Live"
+                    "name": "Live",
+                    "default": false
+                },
+                {
+                    "lang": "ice",
+                    "name": "Ice"
                 }
                       ]
         }
