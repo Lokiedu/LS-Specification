@@ -3,7 +3,7 @@
 Left (in the ltr) sidebar specification. Facebook-like, it will have a number of small innovations across it to improve user experience and content discovery. 
 
 ## Design 
-
+ 
 {% method %} 
 
 Current menu - one of the most annoying parts of the site. It's behavior is erratic - especially when it sticks to the left edge of the screen.
