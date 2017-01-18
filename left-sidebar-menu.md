@@ -32,8 +32,9 @@ Navigation is responsible. We start with just 2 sizes responsive support that wi
 
 {% sample lang="ice" -%}
 
-* [ ] Deliberate (user-initiated) collapse/expand (this tiny long thing near the globe icon - it's height signifies what size is currently on.
-* [ ] Animation for collapse-expand effect has to be well defined and worked through. 
+ [ ] Deliberate (user-initiated) collapse/expand (this tiny long thing near the globe icon - it's height signifies what size is currently on.
+
+[ ] Animation for collapse-expand effect has to be well defined and worked through. 
 * [ ] Logic of smart text titles / links (see XL Size and "4 new posts")
 * [ ] Animation in extra large titles (could be marque)
 * [ ] Specifications for color schemes in [Colors](/colors.md)
