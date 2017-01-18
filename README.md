@@ -3,7 +3,7 @@
 * Top navigation bar
 * Breadcrumbs / omnibar 
 * Announcements
-* [Left sidebar](/left-sidebar.md)
+* Left sidebar
 * Breakpoints, responsive behaviour
 * Notifications
     *  Inbox
