@@ -4,13 +4,18 @@
         "theme-api": {
             "languages": [
                 {
-                    "lang": "stable",
-                    "name": "Stable version",
+                "lang": "live",
+                "name": "Live version",
+                "default": true
+                },             
+                {
+                    "lang": "planned",
+                    "name": "Planned version",
                     "default": true
                 },
                 {
-                    "lang": "beta",
-                    "name": "Work in progress"
+                    "lang": "next",
+                    "name": "Next version"
                 },
                 {
                     "lang": "ice",
