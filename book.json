@@ -1,5 +1,8 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [
+        "theme-api",
+        "tasklist"
+    ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
@@ -17,7 +20,7 @@
                     "lang": "ice",
                     "name": "Ice"
                 }
-                      ]
+            ]
         }
     }
 }
