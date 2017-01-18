@@ -7,12 +7,10 @@
 * Breakpoints, responsive behaviour
 * Notifications
     *  Inbox
-----
 
 * User's menu
 * Right overlay sidebar
 
----
         
 ### Primitives
 
