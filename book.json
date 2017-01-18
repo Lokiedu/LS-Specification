@@ -1,20 +1,16 @@
-{ 
+{
     "plugins": [ "theme-api" ],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
                 {
-                    "lang": "planned",
-                    "name": "Planned",
+                    "lang": "js",
+                    "name": "JavaScript",
                     "default": true
                 },
                 {
-                    "lang": "live",
-                    "name": "Live",
-                },
-                {
-                    "lang": "ice",
-                    "name": "Icebox"
+                    "lang": "go",
+                    "name": "Go"
                 }
             ]
         }
