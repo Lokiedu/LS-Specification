@@ -4,13 +4,17 @@
         "theme-api": {
             "languages": [
                 {
-                    "lang": "js",
-                    "name": "JavaScript",
+                    "lang": "Stable",
+                    "name": "Stable version",
                     "default": true
                 },
                 {
-                    "lang": "go",
-                    "name": "Go"
+                    "lang": "Beta",
+                    "name": "Work in progress"
+                },
+                {
+                    "lang": "Brief",
+                    "name": "Raw, unfinished, ideas"
                 }
             ]
         }
