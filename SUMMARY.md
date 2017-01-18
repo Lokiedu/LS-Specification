@@ -1,9 +1,8 @@
 # Summary
 
 ## Overview
-
-* [My Awesome API](README.md)
+* [Specification overview](README.md)
 
 ## Methods
+* [Left sidebar](methods.md)
 
-* [Defining Methods](methods.md)

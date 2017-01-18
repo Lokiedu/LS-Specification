@@ -1,9 +1,10 @@
-# Defining Methods
+# Basics
 
-Methods allow you to smoothly display code examples in different languages.
+Left sidebar
 
 {% method %} 
-## My first method
+
+#### About it
 
 My first method exposes how to print a message in JavaScript and Go.
 
@@ -14,7 +15,7 @@ Here is how to print a message to `stdout` using JavaScript.
 console.log('My first method');
 ```
 
-{% sample lang="go" %}
+{% sample  x lang="go" %}
 Here is how to print a message to `stdout` using Go.
 
 ```go
