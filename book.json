@@ -6,7 +6,9 @@
         "advanced-emoji",
         "bootstrap-callout",
         "checkbox",
-        "codeblock-label"
+        "codeblock-label",
+        "printlinks",
+        "wikify"
     ],
     "pluginsConfig": {
         "theme-api": {
