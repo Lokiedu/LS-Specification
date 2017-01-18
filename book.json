@@ -5,12 +5,12 @@
             "languages": [
                 {
                     "lang": "planned",
-                    "name": "planned",
+                    "name": "Planned",
                     "default": true
                 },
                 {
-                    "lang": "go",
-                    "name": "Go"
+                    "lang": "live",
+                    "name": "Live"
                 }
             ]
         }
