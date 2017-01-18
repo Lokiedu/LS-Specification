@@ -1,7 +1,13 @@
 {
     "plugins": [
         "theme-api",
-        "tasklist"
+        "tasklist",
+        "emoji",
+        "remove-link",
+        "advanced-emoji",
+        "bootstrap-callout",
+        "checkbox",
+        "codeblock-label"
     ],
     "pluginsConfig": {
         "theme-api": {
