@@ -4,16 +4,16 @@
         "theme-api": {
             "languages": [
                 {
-                    "lang": "Stable",
+                    "lang": "stable",
                     "name": "Stable version",
                     "default": true
                 },
                 {
-                    "lang": "Beta",
+                    "lang": "beta",
                     "name": "Work in progress"
                 },
                 {
-                    "lang": "Brief",
+                    "lang": "ice",
                     "name": "Raw, unfinished, ideas"
                 }
             ]
