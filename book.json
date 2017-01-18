@@ -3,7 +3,6 @@
     "pluginsConfig": {
         "theme-api": {
             "languages": [
-                      
                 {
                     "lang": "planned",
                     "name": "Planned",
@@ -12,10 +11,6 @@
                 {
                     "lang": "live",
                     "name": "Live",
-                },
-                {
-                    "lang": "next",
-                    "name": "Next",
                 },
                 {
                     "lang": "ice",
