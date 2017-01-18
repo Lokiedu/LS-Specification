@@ -14,3 +14,14 @@ My first method exposes how to print a message in JavaScript and Go.
 test code?
 ```
 {% endmethod %}
+
+x
+
+{% method %} 
+
+#### RTL
+
+Specification
+
+{% endmethod %}
+
