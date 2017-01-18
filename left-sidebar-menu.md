@@ -10,12 +10,8 @@ test
 
 Navigation is responsible. We start with just 2 sizes responsive support that will work for "collapse" and "expand" states.
 
-{% sample lang="live" -%}
-
 {% sample lang="planned" -%}
-
-{% sample lang="next" -%}
-
+{% sample lang="live" -%}
 {% sample lang="ice" -%}
 
 * [ ] Deliberate (user-initiated) collapse/expand (this tiny long thing near the globe icon - it's height signifies what size is currently on.
