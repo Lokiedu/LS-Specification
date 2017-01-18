@@ -3,23 +3,23 @@
     "pluginsConfig": {
         "theme-api": {
             "languages": [
-            
-                {
-                    "lang": "live",
-                    "name": "Live version",
-                },             
+                      
                 {
                     "lang": "planned",
-                    "name": "Planned version",
+                    "name": "Planned",
                     "default": true
                 },
                 {
+                    "lang": "live",
+                    "name": "Live",
+                },
+                {
                     "lang": "next",
-                    "name": "Next version"
+                    "name": "Next"
                 },
                 {
                     "lang": "ice",
-                    "name": "Raw, unfinished, ideas"
+                    "name": "Icebox"
                 }
             ]
         }
