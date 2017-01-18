@@ -18,7 +18,8 @@
                 },
                 {
                     "lang": "ice",
-                    "name": "Ice"
+                    "name": "Ice",
+                    "default": false
                 }
             ]
         }
