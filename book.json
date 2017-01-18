@@ -2,7 +2,6 @@
     "plugins": [
         "theme-api",
         "tasklist",
-        "emoji",
         "remove-link",
         "advanced-emoji",
         "bootstrap-callout",
