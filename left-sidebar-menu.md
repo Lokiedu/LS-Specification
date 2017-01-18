@@ -12,6 +12,7 @@ Current menu - one of the most annoying parts of the site. It's behavior is erra
 {% sample lang="live" -%}
 {% sample lang="ice" -%}
 {% common -%}
+* [ ] Okay
 {% endmethod %}
 {% method %} 
 
