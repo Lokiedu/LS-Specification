@@ -9,6 +9,11 @@
                     "default": true
                 },
                 {
+"lang": "ice",
+"name": "ice",
+"default": false
+},
+                {
                     "lang": "live",
                     "name": "Live"
                 }
