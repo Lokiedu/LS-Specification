@@ -3,6 +3,7 @@
     "pluginsConfig": {
         "theme-api": {
             "languages": [
+            
                 {
                     "lang": "live",
                     "name": "Live version",
