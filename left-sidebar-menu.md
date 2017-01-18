@@ -24,22 +24,3 @@ Navigation is responsible. We start with just 2 sizes responsive support that wi
 | [![](/assets/Collapse-expand.png)](https://drive.google.com/a/lokieducation.org/file/d/0B-3RQRY3AlLUbmlHVlR1dzRKdWM/view?usp=sharing) |
 
 {% endmethod %}
-
-x
-
-{% method %} 
-
-#### RTL
-
-Specification
-
-{% endmethod %}
-
-Only in contrast with bad things you can see good ones, I think. Examples shown can be a base for development of ethical standards in schools and businesses. 
-
-https://docs.google.com/drawings/d/1wir-lVVYkj300VBvQb_I6LPxIFhawMtXs5pAtZxsmZc
-
-```ruby
-Do androids dream of electric sheep?
-
-```
