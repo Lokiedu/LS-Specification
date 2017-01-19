@@ -14,7 +14,8 @@
         "rss",
         "infinitescroll",
         "github-buttons",
-        "git-author"
+        "git-author",
+        "comment"
     ],
     "pluginsConfig": {
         "theme-api": {
