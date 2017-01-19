@@ -1,4 +1,5 @@
-<div class="file-icon file-icon-xl" data-type="doc">Buttons</div>
+<div class="file-icon file-icon-xl" data-type="doc"></div>
+**Buttons**
 
 ![](/axure/Colors and Icons.png)
 
