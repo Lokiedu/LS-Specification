@@ -9,7 +9,8 @@
         "codeblock-label",
         "printlinks",
         "wikify",
-        "websequencediagrams"
+        "websequencediagrams",
+        "theme-open_fxb-docs"
     ],
     "pluginsConfig": {
         "theme-api": {
