@@ -10,7 +10,30 @@
         "printlinks",
         "wikify",
         "websequencediagrams",
-        "theme-open_fxb-docs"
+        "splitter",
+        "sitemap-general",
+        "sequence-diagrams",
+        "sequence",
+        "rss",
+        "puml",
+        "outline",
+        "new-flowchart",
+        "mermaid",
+        "mermaid-2",
+        "mermaid-full",
+        "mermaid-compat",
+        "mermaid-gb3",
+        "js-sequence-diagram-full",
+        "js-sequence-hand-diagram",
+        "infinitescroll",
+        "github-buttons",
+        "git-author",
+        "flowchart-full",
+        "feed",
+        "creativecommons",
+        "betterpagetitles",
+        "custom-favicon",
+        "edit-link"
     ],
     "pluginsConfig": {
         "theme-api": {
@@ -31,6 +54,10 @@
                     "default": false
                 }
             ]
+        },
+        "remove-link": {
+            "publisher": "Vlad@lokieducation.org",
+            "link": "mailto:Vlad@lokieducation.org"
         }
     }
 }
