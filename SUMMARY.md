@@ -7,3 +7,5 @@
 * [Left sidebar menu](left-sidebar-menu.md)
 * [Colors](colors.md)
 
+## Misc.
+
