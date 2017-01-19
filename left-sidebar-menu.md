@@ -13,13 +13,7 @@ Current menu - one of the most annoying parts of the site. It's behavior is erra
 {% sample lang="ice" -%}
 {% common -%}
 
-{% websd style="rose" %}
-title Authentication Sequence
 
-Alice->Bob: Authentication Request
-note right of Bob: Bob thinks about it
-Bob->Alice: Authentication Response
-{% endwebsd %}
 
 {% endmethod %}
 {% method %} 
