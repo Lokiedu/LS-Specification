@@ -33,7 +33,7 @@
   * Events
   * Mentions
   * Content type
-* People \(users\)
+* People \(users\) 
   * User profile
 * Home page
   * Slices
