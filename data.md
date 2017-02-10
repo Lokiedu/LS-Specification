@@ -1,6 +1,9 @@
+# Schools table
+
+[https://github.com/Lokiedu/libertysoil-site/wiki/Schools-table](https://github.com/Lokiedu/libertysoil-site/wiki/Schools-table) 
+
 # Data types
 
-  
 Some objects which contain a vast set of fields are used for whole groups of methods at a time. Below are the links to pages with detailed description of such objects
 
 ### [ ](https://github.com/Lokiedu/libertysoil-site/wiki/Attachment-object)[Attachment](https://github.com/Lokiedu/libertysoil-site/wiki/Attachment-object)
